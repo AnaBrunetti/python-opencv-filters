@@ -6,7 +6,7 @@ APS Unip 6th Semester. Computer Science Course. Image's filters with Python, Ope
 * Python (3.10.0) [Installation](https://www.python.org/downloads/ "Installation") 
 * Virtualenv (20.10.0) [Installation](https://pypi.org/project/virtualenv/20.10.0/ "Installation")
 * Visual Studio Code (Recomended IDE) [Installation](https://code.visualstudio.com/ "Installation")
-* 
+
 # Run project
 * Git clone this repository.
 * Open ide and project folder (vs used).
